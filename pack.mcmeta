@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "Save inventory space by stacking your tools!",
+        "version": "8.0.0.0"
+    }
+}

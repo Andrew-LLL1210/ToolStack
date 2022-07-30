@@ -1,0 +1,21 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "flags": {
+        "is_sneaking": true
+      },
+      "equipment": {
+        "mainhand": {
+          "items": [
+            "minecraft:air"
+          ]
+        },
+        "offhand": {
+          "tag": "toolstack:tools",
+          "nbt": "{toolstack:{}}"
+        }
+      }
+    }
+  }
