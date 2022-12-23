@@ -1,7 +1,7 @@
 # toolstack:tick top-level function
 
 # if player already sneaking when pressing [F], switch tool mode
-execute as @a[tag=preparetomodeswitch,predicate=toolstack:mode_switch] run function toolstack:modeswitcher/build
+execute as @a[tag=preparetomodeswitch,predicate=toolstack:mode_switch] run function toolstack:modeswitcher
 
 # if player sneaks with a tool in both hands, try stacking
 # if player sneaks with a stack in offhand, try unstacking
