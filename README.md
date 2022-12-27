@@ -1,5 +1,5 @@
 # Toolstack
-A Utility Minecraft Data Pack
+A Utility Minecraft Data Pack for Minecraft 1.18+
 
 - [Installation](#installation)
 - [Usage](#usage)
