@@ -7,3 +7,4 @@ execute if score @s tool matches 1 unless predicate toolstack:mainhand/pickaxe r
 execute if score @s tool matches 2 unless predicate toolstack:mainhand/axe run function toolstack:swapper/build
 execute if score @s tool matches 3 unless predicate toolstack:mainhand/shovel run function toolstack:swapper/build
 execute if score @s tool matches 4 unless predicate toolstack:mainhand/hoe run function toolstack:swapper/build
+execute if score @s specialtool matches 1..4 run function toolstack:swapper/build
