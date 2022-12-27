@@ -4,6 +4,6 @@
         "minecraft:dirt",
         "minecraft:rooted_dirt",
         "minecraft:coarse_dirt",
-        "minecraft:farmland"
+        "minecraft:dirt_path"
     ]
 }
