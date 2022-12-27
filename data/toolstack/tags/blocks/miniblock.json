@@ -5,8 +5,6 @@
         "#minecraft:fences",
         "#minecraft:walls",
         "#minecraft:pressure_plates",
-        "#minecraft:slabs",
-        "#minecraft:stairs",
         "#minecraft:trapdoors",
 
         "minecraft:chest",
