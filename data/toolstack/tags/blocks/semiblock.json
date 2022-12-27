@@ -2,7 +2,6 @@
     "values": [
         "#minecraft:campfires",
         "#minecraft:slabs",
-        "minecraft:daylight_detector",
         "minecraft:sculk_sensor",
         "minecraft:stonecutter"
     ]

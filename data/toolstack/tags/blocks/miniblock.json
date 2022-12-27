@@ -5,6 +5,7 @@
         "#minecraft:fences",
         "#minecraft:walls",
         "#minecraft:pressure_plates",
+        "minecraft:daylight_detector",
         "#minecraft:trapdoors",
 
         "minecraft:chest",
