@@ -15,3 +15,9 @@ execute if data entity @s HandItems[1].tag.toolstack.shovel run scoreboard playe
 execute if data entity @s HandItems[1].tag.toolstack.hoe run scoreboard players add @s tool 1
 
 execute if score @s tool matches ..1 run data remove entity @s HandItems[1].tag.toolstack
+
+item replace entity @s armor.head from entity @s weapon.mainhand
+item replace entity @s weapon.mainhand from entity @s weapon.offhand
+function toolstack:setlore
+item replace entity @s weapon.offhand from entity @s weapon.mainhand
+item replace entity @s weapon.mainhand from entity @s armor.head
