@@ -1,8 +1,53 @@
 {
     "values": [
-        "#banners",
-        "#buttons",
-        "#doors",
-        "#trapdoors"
+        "#minecraft:buttons",
+        "#minecraft:doors",
+        "#minecraft:fences",
+        "#minecraft:walls",
+        "#minecraft:pressure_plates",
+        "#minecraft:trapdoors",
+
+        "minecraft:chest",
+        "minecraft:trapped_chest",
+        "minecraft:ender_chest",
+
+        "minecraft:hopper",
+        "minecraft:grindstone",
+        "#minecraft:anvil",
+
+        "minecraft:bell",
+        "minecraft:lantern",
+        "minecraft:soul_lantern",
+        "minecraft:piston_head",
+        "minecraft:conduit",
+
+        "minecraft:iron_bars",
+        "minecraft:chain",
+        "minecraft:brewing_stand",
+        "minecraft:lightning_rod",
+        "minecraft:pointed_dripstone",
+
+        "minecraft:amethyst_cluster",
+        "minecraft:small_amethyst_bud",
+        "minecraft:medium_amethyst_bud",
+        "minecraft:large_amethyst_bud",
+
+        "minecraft:bamboo",
+        "minecraft:big_dripleaf_stem",
+        "minecraft:big_dripleaf",
+        "minecraft:chorus_plant",
+        "minecraft:cocoa",
+        "minecraft:glow_lichen",
+        "minecraft:ladder",
+        "minecraft:lectern",
+        "minecraft:vine",
+        "#minecraft:banners",
+        "#minecraft:fence_gates",
+        "#minecraft:signs",
+
+        "minecraft:snow",
+        "minecraft:moss_carpet",
+        "minecraft:sculk_vein",
+        "#minecraft:rails"
     ]
 }
